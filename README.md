@@ -7,7 +7,7 @@ It uncovers key insights about sales, profit, and product performance across dif
 
 ## 📁 Project Structure
 
-![Sales by Category](charts/charts/Screenshot%2025-10-29%212358.png)
+![Sales by Category](charts/structure.png)
 
 ---
 
